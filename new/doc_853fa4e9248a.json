@@ -1,0 +1,489 @@
+{
+  "advanced_forensics": {
+    "adversarial_text": {
+      "hidden_text": {
+        "hidden_span_count": 4,
+        "hidden_spans": [
+          {
+            "bbox": [
+              48.52,
+              260.09,
+              96.07,
+              269.09
+            ],
+            "color": 16777215,
+            "font": "Nimbus-Sans-Bold",
+            "page": 1,
+            "size": 9,
+            "text": "EARNINGS"
+          },
+          {
+            "bbox": [
+              303.64,
+              260.09,
+              367.31,
+              269.09
+            ],
+            "color": 16777215,
+            "font": "Nimbus-Sans-Bold",
+            "page": 1,
+            "size": 9,
+            "text": "AMOUNT (INR)"
+          },
+          {
+            "bbox": [
+              48.52,
+              409.94,
+              107.99,
+              418.94
+            ],
+            "color": 16777215,
+            "font": "Nimbus-Sans-Bold",
+            "page": 1,
+            "size": 9,
+            "text": "DEDUCTIONS"
+          },
+          {
+            "bbox": [
+              303.64,
+              409.94,
+              367.31,
+              418.94
+            ],
+            "color": 16777215,
+            "font": "Nimbus-Sans-Bold",
+            "page": 1,
+            "size": 9,
+            "text": "AMOUNT (INR)"
+          }
+        ],
+        "hidden_unicode": [],
+        "hidden_unicode_count": 0,
+        "score": 0.3,
+        "triggered": true
+      },
+      "raw_ocr_divergence": {
+        "distance": 0.012,
+        "extra_raw_tokens": [
+          "amount"
+        ],
+        "raw_token_count": 83,
+        "score": 0.1254,
+        "triggered": true,
+        "visual_token_count": 82
+      },
+      "status": "REAL"
+    },
+    "pdf": {
+      "font_audit": {
+        "anomalies": [
+          {
+            "bbox": [
+              438.52,
+              60.23,
+              552.07,
+              74.23
+            ],
+            "dominant_font": "Nimbus-Sans",
+            "font": "Nimbus-Sans-Bold",
+            "median_size": 9,
+            "page": 1,
+            "size": 14,
+            "text": "PAYSLIP ADVICE"
+          },
+          {
+            "bbox": [
+              42.52,
+              228.59,
+              163.95,
+              239.59
+            ],
+            "dominant_font": "Nimbus-Sans",
+            "font": "Nimbus-Sans-Bold",
+            "median_size": 9,
+            "page": 1,
+            "size": 11,
+            "text": "SALARY BREAKDOWN"
+          },
+          {
+            "bbox": [
+              303.64,
+              260.09,
+              367.31,
+              269.09
+            ],
+            "dominant_font": "Nimbus-Sans",
+            "font": "Nimbus-Sans-Bold",
+            "median_size": 9,
+            "page": 1,
+            "size": 9,
+            "text": "AMOUNT (INR)"
+          },
+          {
+            "bbox": [
+              48.52,
+              371.84,
+              115.48,
+              380.84
+            ],
+            "dominant_font": "Nimbus-Sans",
+            "font": "Nimbus-Sans-Bold",
+            "median_size": 9,
+            "page": 1,
+            "size": 9,
+            "text": "Gross Earnings"
+          },
+          {
+            "bbox": [
+              506.72,
+              371.84,
+              546.76,
+              380.84
+            ],
+            "dominant_font": "Nimbus-Sans",
+            "font": "Nimbus-Sans-Bold",
+            "median_size": 9,
+            "page": 1,
+            "size": 9,
+            "text": "95,300.00"
+          },
+          {
+            "bbox": [
+              303.64,
+              409.94,
+              367.31,
+              418.94
+            ],
+            "dominant_font": "Nimbus-Sans",
+            "font": "Nimbus-Sans-Bold",
+            "median_size": 9,
+            "page": 1,
+            "size": 9,
+            "text": "AMOUNT (INR)"
+          },
+          {
+            "bbox": [
+              511.73,
+              499.34,
+              546.76,
+              508.34
+            ],
+            "dominant_font": "Nimbus-Sans",
+            "font": "Nimbus-Sans-Bold",
+            "median_size": 9,
+            "page": 1,
+            "size": 9,
+            "text": "4,500.00"
+          },
+          {
+            "bbox": [
+              48.52,
+              538.94,
+              147.89,
+              547.94
+            ],
+            "dominant_font": "Nimbus-Sans",
+            "font": "Nimbus-Sans-Bold",
+            "median_size": 9,
+            "page": 1,
+            "size": 9,
+            "text": "NET PAY (TAKE HOME)"
+          },
+          {
+            "bbox": [
+              488.72,
+              538.94,
+              546.76,
+              547.94
+            ],
+            "dominant_font": "Nimbus-Sans",
+            "font": "Nimbus-Sans-Bold",
+            "median_size": 9,
+            "page": 1,
+            "size": 9,
+            "text": "INR 90,800.00"
+          }
+        ],
+        "dominant_font": "Nimbus-Sans",
+        "median_size": 9,
+        "score": 0.25,
+        "triggered": true
+      },
+      "hidden_text_spans": [
+        {
+          "bbox": [
+            48.52,
+            260.09,
+            96.07,
+            269.09
+          ],
+          "color": 16777215,
+          "font": "Nimbus-Sans-Bold",
+          "page": 1,
+          "size": 9,
+          "text": "EARNINGS"
+        },
+        {
+          "bbox": [
+            303.64,
+            260.09,
+            367.31,
+            269.09
+          ],
+          "color": 16777215,
+          "font": "Nimbus-Sans-Bold",
+          "page": 1,
+          "size": 9,
+          "text": "AMOUNT (INR)"
+        },
+        {
+          "bbox": [
+            48.52,
+            409.94,
+            107.99,
+            418.94
+          ],
+          "color": 16777215,
+          "font": "Nimbus-Sans-Bold",
+          "page": 1,
+          "size": 9,
+          "text": "DEDUCTIONS"
+        },
+        {
+          "bbox": [
+            303.64,
+            409.94,
+            367.31,
+            418.94
+          ],
+          "color": 16777215,
+          "font": "Nimbus-Sans-Bold",
+          "page": 1,
+          "size": 9,
+          "text": "AMOUNT (INR)"
+        }
+      ],
+      "object_audit": {
+        "anomalies": [],
+        "producer": "WeasyPrint 62.3",
+        "score": 0,
+        "triggered": false
+      },
+      "pages": [
+        {
+          "height": 841.89,
+          "page": 1,
+          "width": 595.28
+        }
+      ],
+      "raw_text_preview": "APEX TECHNOLOGIES PVT. LTD.\nGlobal Tech Park, Outer Ring Road, Bengaluru, 560103\nPAYSLIP ADVICE\nMonth: May 2026\nEMPLOYEE DETAILS\nEmployee Name:\nRahul Kumar\nEmployee ID:\nAPX-2024-8942\nDepartment:\nEngineering\nDesignation:\nSoftware Engineer\nBank Name:\nHDFC Bank Ltd.\nBank A/C No:\n*****554321\nPAN:\nBPZPK1234F\nPF Account No:\nKN/BG/0043210/000/0008942\nSALARY BREAKDOWN\nEARNINGS\nAMOUNT (INR)\nBasic Salary\n58,000.00\nHouse Rent Allowance (HRA)\n23,200.00\nSpecial Allowance\n12,500.00\nConveyance Allowance\n1,600.",
+      "status": "REAL",
+      "visible_text_preview": "APEX TECHNOLOGIES PVT. LTD.\nGlobal Tech Park, Outer Ring Road, Bengaluru, 560103\nPAYSLIP ADVICE\nMonth: May 2026\nEMPLOYEE DETAILS\nEmployee Name:\nRahul Kumar\nEmployee ID:\nAPX-2024-8942\nDepartment:\nEngineering\nDesignation:\nSoftware Engineer\nBank Name:\nHDFC Bank Ltd.\nBank A/C No:\n*****554321\nPAN:\nBPZPK1234F\nPF Account No:\nKN/BG/0043210/000/0008942\nSALARY BREAKDOWN\nBasic Salary\n58,000.00\nHouse Rent Allowance (HRA)\n23,200.00\nSpecial Allowance\n12,500.00\nConveyance Allowance\n1,600.00\nGross Earnings\n95,3"
+    },
+    "visual": {
+      "ela": {
+        "detail": "ELA max score 0.084 across 1 rendered page(s).",
+        "max_score": 0.0844,
+        "pages": [
+          {
+            "artifact_path": "C:\\Users\\Acer\\Downloads\\canara\\fraud_sniffer\\data\\documents\\forensics\\doc_853fa4e9248a_ela_page_1.png",
+            "artifact_url": "/api/documents/doc_853fa4e9248a/forensics/ela/1",
+            "hot_pixel_ratio": 0,
+            "max_error": 25,
+            "max_tile_error": 4,
+            "mean_error": 0.444,
+            "median_tile_error": 0,
+            "page": 1,
+            "score": 0.0844
+          }
+        ],
+        "status": "REAL",
+        "threshold": 0.25,
+        "triggered": false
+      }
+    }
+  },
+  "artifacts": {
+    "annotated_file_url": "/api/documents/doc_853fa4e9248a/annotated",
+    "ela_heatmap_urls": [
+      "/api/documents/doc_853fa4e9248a/forensics/ela/1"
+    ],
+    "forensics_url": "/api/documents/doc_853fa4e9248a/forensics",
+    "original_file_url": "/api/documents/doc_853fa4e9248a/original",
+    "seal_comparison_url": "/api/documents/doc_853fa4e9248a/seal/comparison"
+  },
+  "behavioral_risks": [
+    {
+      "detail": "Device fingerprint has submitted 6 documents in the last 24 hours (threshold: 3). Suspected device emulator or bot farm.",
+      "evidence": {
+        "associated_doc_ids": [
+          "doc_853fa4e9248a",
+          "doc_904f033eea4e",
+          "doc_36fbe8726429",
+          "doc_8defdd20cfd4",
+          "doc_4c001085f2b9",
+          "doc_196795e92d35"
+        ],
+        "canvas_fingerprint": "2b884f877639d355ec6f26041b0bf08030f4aae43dd41a5753b3af769a674887",
+        "submissions_24h": 6,
+        "threshold": 3
+      },
+      "rule": "DEVICE_CLONE",
+      "score": 0.25,
+      "severity": "HIGH"
+    }
+  ],
+  "classification_confidence": 1,
+  "confidence_breakdown": {
+    "behavioral_device_clone": 0.25,
+    "company_not_found": 0.2,
+    "hidden_text_layer": 0.3,
+    "ocr_arithmetic_mismatch": 0.3,
+    "pan_name_mismatch": 0.35,
+    "pdf_font_mismatch": 0.25,
+    "raw_ocr_divergence": 0.125
+  },
+  "doc_id": "doc_853fa4e9248a",
+  "document_type": "PAYSLIP",
+  "external_verification": {
+    "bank_account": {
+      "error": "Bank account or employee name not found in document",
+      "valid": false
+    },
+    "cin": {
+      "error": "CIN not found in document",
+      "valid": false
+    },
+    "company": {
+      "error": "Company 'APEX TECHNOLOGIES PVT. LTD.' not found in MCA registry",
+      "valid": false
+    },
+    "gst": {
+      "error": "GSTIN not found in document",
+      "valid": false
+    },
+    "ifsc": {
+      "error": "IFSC code not found in document",
+      "valid": false
+    },
+    "pan": {
+      "error": "PAN 'BPZPK1234F' is unregistered",
+      "match_score": 0,
+      "registered_name": null,
+      "valid": false
+    }
+  },
+  "feature_status": {
+    "bank_account": "UNAVAILABLE",
+    "company_name": "REAL",
+    "date": "UNAVAILABLE",
+    "date_of_issue": "UNAVAILABLE",
+    "department": "REAL",
+    "designation": "REAL",
+    "employee_id": "REAL",
+    "employee_name": "REAL",
+    "employer_name": "REAL",
+    "form_pdf_mismatch": "UNAVAILABLE",
+    "gross_pay": "REAL",
+    "ifsc_code": "UNAVAILABLE",
+    "llm_semantic_coherence": "DERIVED",
+    "metadata_creation_delta": "UNAVAILABLE",
+    "net_pay": "REAL",
+    "pan_number": "REAL",
+    "parse_coverage_score": "DERIVED",
+    "pay_period": "REAL",
+    "professional_tax": "UNAVAILABLE",
+    "property_registry_match": "SIMULATED",
+    "provident_fund": "UNAVAILABLE",
+    "salary_amount": "REAL",
+    "seal_phash_distance": "DERIVED",
+    "tds": "UNAVAILABLE",
+    "template_score": "DERIVED",
+    "text_entropy": "DERIVED",
+    "total_deductions": "REAL"
+  },
+  "feature_values": {
+    "arithmetic_log": "Arithmetic mismatch: Gross (Rs. 95,300.00) - Deductions (Rs. 4,500.00) = Rs. 90,800.00, but Net Pay is Rs. 58,000.00 (diff: Rs. 32,800.00)",
+    "arithmetic_valid": false,
+    "bank_account": null,
+    "company_name": "APEX TECHNOLOGIES PVT. LTD.",
+    "date": null,
+    "date_of_issue": null,
+    "department": "Engineering",
+    "designation": "Software Engineer",
+    "document_date": null,
+    "employee_id": "APX-2024-8942",
+    "employee_name": "Rahul Kumar",
+    "employer_name": "APEX TECHNOLOGIES PVT. LTD.",
+    "gross_pay": 95300,
+    "ifsc_code": null,
+    "ml_deviations": [],
+    "ml_structural_anomaly_score": 0,
+    "net_pay": 58000,
+    "pan_number": "BPZPK1234F",
+    "pay_period": "May 2026",
+    "professional_tax": null,
+    "provident_fund": null,
+    "salary_amount": 58000,
+    "salary_deviation_msg": null,
+    "structural_features": {
+      "avg_line_length": 16.84,
+      "digit_ratio": 0.1318,
+      "entropy": 5.4988,
+      "text_length": 842,
+      "unique_word_ratio": 0.885,
+      "whitespace_ratio": 0.1354
+    },
+    "tds": null,
+    "total_deductions": 4500
+  },
+  "final_reason_summary": "Document flagged due to ocr_inconsistency, employer company not found in registry, PAN card identity name mismatch.",
+  "fraud_score": 0.878,
+  "model_version": "fraud_model_v1.0",
+  "ocr_confidence": 0.986,
+  "ocr_warnings": [
+    "PAYSLIP ARITHMETIC MISMATCH — Arithmetic mismatch: Gross (Rs. 95,300.00) - Deductions (Rs. 4,500.00) = Rs. 90,800.00, but Net Pay is Rs. 58,000.00 (diff: Rs. 32,800.00)"
+  ],
+  "p_value": 0.015,
+  "pipeline_state": "FINALIZED",
+  "processing_time_ms": 1806,
+  "review": {
+    "manual_verdict": null,
+    "review_notes": null,
+    "review_timestamp": null,
+    "reviewed_by": null
+  },
+  "risk_decision_reason_codes": [
+    "OCR_INCONSISTENCY",
+    "COMPANY_NOT_FOUND",
+    "PAN_NAME_MISMATCH",
+    "PDF_FONT_MISMATCH",
+    "HIDDEN_TEXT_LAYER",
+    "RAW_OCR_DIVERGENCE",
+    "DEVICE_CLONE"
+  ],
+  "seal_evidence": {
+    "evidence": "Extracted seal text marker on page 1. Uploaded seal differs from reference seal by perceptual hash distance of 30. synthetic_reference.",
+    "extracted_seal_url": "/api/documents/doc_853fa4e9248a/seal/extracted",
+    "feature_status": "DERIVED",
+    "raw_hamming_distance": 30,
+    "reference_seal_url": "/api/documents/doc_853fa4e9248a/seal/reference",
+    "seal_phash_distance": 0.469
+  },
+  "semantic_check": {
+    "rationale": "Available fields are semantically consistent.",
+    "reason_code": null,
+    "score": 0,
+    "source": "LOCAL_STUB"
+  },
+  "similarity_matches": [],
+  "state": "BLOCK",
+  "ui_state_label": "CRITICAL FRAUD RISK",
+  "warnings": [
+    "PAYSLIP ARITHMETIC MISMATCH — Arithmetic mismatch: Gross (Rs. 95,300.00) - Deductions (Rs. 4,500.00) = Rs. 90,800.00, but Net Pay is Rs. 58,000.00 (diff: Rs. 32,800.00)"
+  ],
+  "webhook_status": {
+    "message": "No webhook_url configured",
+    "status": "SKIPPED"
+  }
+}
